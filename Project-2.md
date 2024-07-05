@@ -21,9 +21,12 @@ Your application code should be in a repository like GitHub,
 
 ****Step 1: Setting Up Jenkins Master-Slave Architecture**
 **1.1 Install Jenkins
+
 1.2 Configure Jenkins Master
+
 **Create a New Node**:
 Go to Manage Jenkins > Manage Nodes and Clouds > New Node.
+
 **Enter the node name and select Permanent Agent**.
 Configure the node with the required details (remote root directory, labels, etc.).
 Launch Agent: Use the Launch agent via Java Web Start option, or configure the agent to connect using SSH.
@@ -43,13 +46,17 @@ gcloud config set project YOUR_PROJECT_ID
 
 
 ****Step 3: Create Jenkins Pipeline for Deployment**
+
 **3.1 Install Required Plugins
+
 Google OAuth Credentials: For Google authentication.
 Google Kubernetes Engine: For deploying to GKE (if using Kubernetes).
+
 ****3.2 Configure Credentials**
 **Add Google Cloud Credentials:
 Go to Manage Jenkins > Manage Credentials.
 Add a new Google Service Account from private key and upload the JSON key file from your Google Cloud service account.
+
 ****3.3 Create a Pipeline Job**
 **New Item: Go to New Item, enter a name, select Pipeline, and click OK.
 **Pipeline Definition: In the pipeline configuration, define your pipeline script. Here’s an example:
