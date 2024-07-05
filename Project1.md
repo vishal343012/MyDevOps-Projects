@@ -47,6 +47,8 @@ Create release Pipeline and select IIS template
 <img width="595" alt="image" src="https://github.com/vishal343012/MyDevOps-Projects/assets/119778329/064416f1-481f-4f51-a77c-46351801ad0b">
 
 **Now we will go to virtual machine open the PowerShell as an administrator and paste the scripts and connect from azure pipeline**
+
+
 <img width="488" alt="image" src="https://github.com/vishal343012/MyDevOps-Projects/assets/119778329/65645ba0-cea6-4777-8fb6-9976264c8a43">
 
 **Now we will select the deployment task and choose the deployment group from drop down which we have created – My websites
