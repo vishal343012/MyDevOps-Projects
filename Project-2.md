@@ -25,10 +25,10 @@ Configure the node with the required details (remote root directory, labels, etc
 Launch Agent: Use the Launch agent via Java Web Start option, or configure the agent to connect using SSH.
 
 **Step 2: **Configure Google Cloud SDK on Jenkins Nodes**
-**
-**sudo apt-get update && sudo apt-get install -y apt-transport-https ca-certificates gnupg
+
+******sudo apt-get update && sudo apt-get install -y apt-transport-https ca-certificates gnupg
 echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | sudo tee -a /etc/apt/sources.list.d/google-cloud-sdk.list
-sudo apt-get install -y google-cloud-**__sdk
+sudo apt-get install -y google-cloud-****__sdk******
 
 ****Authenticate with Google Cloud**:
 **
