@@ -1,3 +1,10 @@
+<img width="670" alt="image" src="https://github.com/vishal343012/MyDevOps-Projects/assets/119778329/38d2d7c3-8106-4eb4-acd5-06125c91b256">
+
+
+
+
+
+
 𝐃𝐞𝐩𝐥𝐨𝐲 𝐀𝐒𝐏 .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐭𝐨 𝐀𝐳𝐮𝐫𝐞 𝐕𝐌 -𝐈𝐈𝐒- 𝐀𝐳𝐮𝐫𝐞 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬
 Deploying an ASP.NET Core website to an Azure VM using IIS and Azure Pipelines involves several steps. Here is a full guide to help you through the process:
 
@@ -65,10 +72,20 @@ Now we will create a new release**
 
 
 
+******************************************************************
 
 
+**ERROR to fix
+ Pipeline Build error in VScode
+##[error]Solution not found using search pattern 'D:\a\1\s\**\*.sln'
+Resolution – Edit pipeline Path to solution or packages parameter from **\*.sln to **\*.csproj .
 
 
+How to solve Http Error 500.19 – Internal Server Error in windows server IIS for Dotnet Core application
+ 
+Resolution- Download .NET Core
+Hosting Bundle and run
+**
 
 
 
