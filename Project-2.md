@@ -1,5 +1,5 @@
 
-<img width="457" alt="image" src="https://github.com/vishal343012/MyDevOps-Projects/assets/119778329/7dabb9c6-2430-4f12-a8a7-c002222641d7">
+
 
 ![Animation](https://github.com/vishal343012/MyDevOps-Projects/assets/119778329/54c965e3-dbee-4333-96f4-a6b82ea55349)
 
