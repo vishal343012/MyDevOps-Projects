@@ -1,3 +1,4 @@
+**𝐒𝐞𝐚𝐦𝐥𝐞𝐬𝐬𝐥𝐲 𝐃𝐞𝐩𝐥𝐨𝐲 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐩𝐩 𝐄𝐧𝐠𝐢𝐧𝐞 𝐰𝐢𝐭𝐡 𝐉𝐞𝐧𝐤𝐢𝐧𝐬 𝐌𝐚𝐬𝐭𝐞𝐫-𝐒𝐥𝐚𝐯𝐞 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞**
 
 
 
@@ -7,7 +8,6 @@
 
 
 
-**Seamlessly Deploy Applications on Google App Engine with Jenkins Master-Slave Pipeline**
 
 Prerequisites
 **Jenkins Server**: 
